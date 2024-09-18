@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "472379578591",
+    "project_id": "testegemine",
+    "storage_bucket": "testegemine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472379578591:android:abbc00b34e983c6a36316a",
+        "android_client_info": {
+          "package_name": "com.example.talk_hub_vs2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVR-1GWDWt4NevD9AOtmmUWLK_2sTE7RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472379578591:android:ae4c2491bd27c16836316a",
+        "android_client_info": {
+          "package_name": "comum.example.talk_hub_vs2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVR-1GWDWt4NevD9AOtmmUWLK_2sTE7RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
